@@ -8,7 +8,7 @@ version = "1.0.0"
 authors = [
   { name="MidpriceDog"},
 ]
-description = "A Python wrapper around The PBP Stats API"
+description = "A Python wrapper around some requests to the PBP Stats API"
 readme = "README.md"
 requires-python = ">=3.7"
 dependencies = [
